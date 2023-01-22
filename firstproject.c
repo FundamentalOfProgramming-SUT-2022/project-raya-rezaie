@@ -39,7 +39,7 @@ char** str_chop(const char* inp, const char* space, int* num)
     }
     *num = inp_num;
     return words;
-} /* 
+} 
 void cat(char *filename)
 {
     char read ;
